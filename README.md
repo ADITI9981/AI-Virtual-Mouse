@@ -25,8 +25,8 @@ No physical mouse required — powered by **OpenCV**, **MediaPipe Hands**, and *
 
 ## 📸 Screenshots  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06af0305-64a8-44fb-bf27-e297273a16a3" width="50%" />
-  <img src ="https://github.com/user-attachments/assets/c482cfaa-f0b9-4656-bac5-75af5f1cfff0" width="50%" />
+  <img src="https://github.com/user-attachments/assets/06af0305-64a8-44fb-bf27-e297273a16a3" width="45%" />
+  <img src ="https://github.com/user-attachments/assets/c482cfaa-f0b9-4656-bac5-75af5f1cfff0" width="45%" />
   <img src="https://github.com/user-attachments/assets/37226ba7-b625-402b-bbbd-23be7f65d443" width="70%" />
 </p>  
 
