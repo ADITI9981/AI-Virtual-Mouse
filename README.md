@@ -22,14 +22,11 @@ No physical mouse required — powered by **OpenCV**, **MediaPipe Hands**, and *
 - 🎯 **Smooth motion mapping** with adjustable sensitivity  
 
 ---
-<img width="1911" height="970" alt="Screenshot 2025-08-24 154254" src="https://github.com/user-attachments/assets/06af0305-64a8-44fb-bf27-e297273a16a3" />
-<img width="1919" height="984" alt="Screenshot 2025-08-24 154317" src="https://github.com/user-attachments/assets/c482cfaa-f0b9-4656-bac5-75af5f1cfff0" />
-<img width="633" height="529" alt="Screenshot 2025-08-24 154346" src="https://github.com/user-attachments/assets/37226ba7-b625-402b-bbbd-23be7f65d443" />
 
 ## 📸 Screenshots  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06af0305-64a8-44fb-bf27-e297273a16a3" width="45%" />
-  <img src ="https://github.com/user-attachments/assets/c482cfaa-f0b9-4656-bac5-75af5f1cfff0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/06af0305-64a8-44fb-bf27-e297273a16a3" width="50%" />
+  <img src ="https://github.com/user-attachments/assets/c482cfaa-f0b9-4656-bac5-75af5f1cfff0" width="50%" />
   <img src="https://github.com/user-attachments/assets/37226ba7-b625-402b-bbbd-23be7f65d443" width="70%" />
 </p>  
 
